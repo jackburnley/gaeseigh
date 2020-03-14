@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dieraingie.aykev.dev/sitemap.xml
